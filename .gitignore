@@ -19,3 +19,5 @@ WiredTiger.wt
 WiredTigerLAS.wt
 journal/
 diagnostic.data/
+collection-9--2204128936428897051.wt
+index-10--2204128936428897051.wt
